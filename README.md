@@ -1,1 +1,1 @@
-Studying Bsc in CSE
+BSc in CSE
