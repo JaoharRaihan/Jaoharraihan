@@ -12,14 +12,17 @@ I turn code & data into real-world magic—from spotting crop diseases with AI t
 ---
 
 ## 🛠️ Skills
-**JS** ![JS Skill](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
-**Python** ![Python Skill](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
-**React Native** ![React Native Skill](https://media.giphy.com/media/xT0GqFuoUgwDhIRZk0/giphy.gif)  
-**ML & Data** ![ML Skill](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
+
+| JS | Python | React Native | ML & Data |
+|----|--------|--------------|-----------|
+| ![JS Skill](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif) | ![Python Skill](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif) | ![React Native Skill](https://media.giphy.com/media/xT0GqFuoUgwDhIRZk0/giphy.gif) | ![ML Skill](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif) |
+
+> 💡 Skill bars animate dynamically.
 
 ---
 
 ## 🚀 Highlights
+
 - 🌾 Crop Disease Detector – 97% accuracy  
 - 🖼️ Full-stack Image Classifier – Django + React  
 - 🏏 Cricket Analytics Dashboard ![Bouncing Cricket](https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif)  
@@ -35,12 +38,12 @@ I turn code & data into real-world magic—from spotting crop diseases with AI t
 - **HR:** Search verified candidates, request interviews  
 - **Unique:** Gamification, verified skills, mentor network  
 
-**Tech:** React Native + Expo, Node.js, PostgreSQL, JWT, Firebase/Auth0, AWS S3
+**Tech:** React Native + Expo | Node.js | PostgreSQL | JWT | Firebase/Auth0 | AWS S3
 
 ---
 
 ## 🎯 Looking For
-Junior Dev roles (React Native/Web/ML) on teams that want **real impact**.
+Junior Dev roles (React Native/Web/ML) on **impact-driven teams**.
 
 ---
 
