@@ -1,11 +1,11 @@
-# 👋 Yo, I’m Jaohar
-**React Native Dev | ML Explorer | Cricket Data Nerd**  
+# 👋 Hi, I'm Jaohar
+**React Native Developer | ML Explorer | Cricket Data Enthusiast**  
 📍 Dhaka, Bangladesh | 🌐 [Portfolio](https://jaoharraihan.github.io)
 
 ---
 
 ## 💡 About Me
-I turn code & data into real-world magic—from spotting crop diseases with AI to predicting cricket plays.  
+I transform code and data into real-world solutions—from detecting crop diseases with AI to analyzing cricket strategies.
 
 ![Typing Intro](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
 
@@ -13,44 +13,46 @@ I turn code & data into real-world magic—from spotting crop diseases with AI t
 
 ## 🛠️ Skills
 
-| JS | Python | React Native | ML & Data |
-|----|--------|--------------|-----------|
-| ![JS Skill](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif) | ![Python Skill](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif) | ![React Native Skill](https://media.giphy.com/media/xT0GqFuoUgwDhIRZk0/giphy.gif) | ![ML Skill](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif) |
+**JavaScript**  
 
-> 💡 Skill bars animate dynamically.
+**Python**  
+
+**React Native**  
+
+**Machine Learning & Data Analysis**  
+![ML Skill](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
 
 ---
 
 ## 🚀 Highlights
 
-- 🌾 Crop Disease Detector – 97% accuracy  
-- 🖼️ Full-stack Image Classifier – Django + React  
-- 🏏 Cricket Analytics Dashboard ![Bouncing Cricket](https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif)  
+- 🌾 **Crop Disease Detector** – Achieved 97% accuracy in identifying rice, potato, and corn diseases.
+- 🖼️ **Full-stack Image Classifier** – Integrated Django, React, and ML models for image classification.
+- 🏏 **Cricket Analytics Dashboard** – Developed predictive insights for cricket strategies.
+
+![Bouncing Cricket](https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif)
 
 ---
 
 ## 💻 Projects
 
 ### WorkIn – Verified Hiring Platform 🚀  
-[Live Demo](https://workin-platform.netlify.app) | [GitHub](https://github.com/JaoharRaihan/WorkIn.git)  
+[Live Demo](https://workin-platform.netlify.app) | [GitHub](https://github.com/JaoharRaihan/WorkIn.git)
 
-- **Candidate:** Learn skills, take tests, build portfolio  
-- **HR:** Search verified candidates, request interviews  
-- **Unique:** Gamification, verified skills, mentor network  
+- **Candidate Mode**: Learn skills, take verified tests, build portfolio, track progress.
+- **HR Mode**: Search verified candidates, view skill proofs, request interviews instantly.
+- **Social Feed**: Engage with community, endorse skills, and share achievements.
 
-**Tech:** React Native + Expo | Node.js | PostgreSQL | JWT | Firebase/Auth0 | AWS S3
-
----
-
-## 🎯 Looking For
-Junior Dev roles (React Native/Web/ML) on **impact-driven teams**.
+**Tech Stack**: React Native (Expo), Node.js, PostgreSQL, JWT, Firebase/Auth0, AWS S3
 
 ---
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/jaoharraihan) | ✉️ jaoharraihan.dev@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/jaoharraihan) | ✉️ jaoharraihan.dev@gmail.com
 
 ---
 
 ## ⚡ Fun Fact
-I geek out on cricket data—🏏 smart plays, smarter wins ![Cricket Ball GIF](https://media.giphy.com/media/3o7TKO5bhO5NRL2mR6/giphy.gif)
+I'm passionate about cricket data—analyzing strategies for smarter gameplay.
+
+![Cricket Ball GIF](https://media1.tenor.com/m/mbMl3R2kSFcAAAAC/shakib-al-hasan-shakib.gif)
